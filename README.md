@@ -16,3 +16,10 @@ Version 0.1 - Manual tracking (WORKS!)
 - std::difftime() for duration
 - File append mode
 - getline() for spaces in input
+
+## Version 0.3 Features
+- [x] Menu system
+- [x] View logs
+- [x] Session summary
+- [x] Track multiple apps
+- [x] Total time calculation
